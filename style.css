@@ -21,7 +21,7 @@ section{
     padding: 20px 40px;
     color: white;
     border: 0;
-    font-weight: 700;
+    font-weight: 800;
     margin-top: 30px;
 }
 
@@ -57,9 +57,35 @@ section{
     height: 800px;
 
 }
-/* second section */
+/* count section */
+.sucsess{
+    background-color: #000;
+    height: 320px;
+    margin-top: 0;
+}
+.counter{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.count{
+    padding-top: 120px;
+}
+.count-titel{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+.count-des{
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+}
+/* product section */
 .second-section{
     text-align: center;
+    
 }
 .second-titel{
     color: #272727;
