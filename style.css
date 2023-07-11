@@ -56,6 +56,17 @@ section{
     height: 800px;
 
 }
+/* second section */
+.products{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.flower{
+  width: 300px;
+  height: auto;
+}
 /* icon section style */
 .icon-section{
     background: #F4F4F4;
