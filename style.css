@@ -29,7 +29,7 @@ section{
 
 
 .header{
-    padding: 50px 0px 240px 240px;
+    padding: 50px 0px 0px 240px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -75,8 +75,9 @@ section{
 .discount-section{
     display: flex;
     background-color: #FEF6F8;
-    padding: 100px 0px 200px 200px;
+    padding: 100px 0px 0px 200px;
     align-items: center;
+    justify-content: space-around;
 }
 .discount-titel{
     color: #272727;
