@@ -261,6 +261,9 @@ line-height: normal;
     width: 300px;
     height: auto;
 }
+.f-btn{
+    text-align: center;
+}
 /* latest deals */
 
 .latest-deals{
