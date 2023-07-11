@@ -1,0 +1,99 @@
+/* all sheard style */
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.primary-color{
+    color: #E55473;
+}
+section{
+    margin-top: 100px;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 40px;
+    color: white;
+    border: 0;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+/* header part style */
+
+
+.header{
+    padding: 50px 0px 240px 240px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FDEEF1;
+    
+}
+.header-titel{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+
+}
+.header-description{
+    color: #ACA3A5;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 600px;
+    margin-top: 30px;
+}
+.header-right-side > img{
+    width: 635px;
+    height: 800px;
+
+}
+/* icon section style */
+.icon-section{
+    background: #F4F4F4;
+    width: 1140px;
+    height: 320px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.icon{
+    margin: auto auto;
+}
+
+
+
+/* dissount section design */
+.discount-section{
+    display: flex;
+    background-color: #FEF6F8;
+    padding: 100px 0px 200px 200px;
+    align-items: center;
+}
+.discount-titel{
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+}
+.discount-description{
+    color: #797979;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+}
+.sign-btn{
+    text-align: center;
+}
