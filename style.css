@@ -57,10 +57,32 @@ section{
 
 }
 /* second section */
+.second-section{
+    text-align: center;
+}
+.second-titel{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.second-description{
+    color: #2D2D2D;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 594px;
+margin: 10px auto;
+}
 .products{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    width: 1140px;
+    margin: 0 auto;
+    gap: 20px;
 
 }
 .feature1{
@@ -74,7 +96,8 @@ section{
 } 
 .frist-img{
     width: 310px;
-    height: 428px;
+    height: 438px;
+    margin-left: 45px;
 }
 .feature2{
     background-color: #D8EEEF;
@@ -86,8 +109,9 @@ section{
     padding:100px 30px 0px ;
 }
 .second-img{
-   width: 370px;
-   height: 370px;
+    width: 370px;
+    height: 370px;
+    margin-left: 25px;
 }
 .feature3{
     width: 464px;
@@ -98,36 +122,9 @@ section{
 .third-img{
     width: 314px;
     height: 437px;
-    margin: 0 auto;
+    margin-left: 45px;
 }
 
-
-/* .flowers1{
-    background-color: #F2DEE8;
-    border-radius: 300px 300px 0px 0px;
-           
-} */
-/* .flowers1 > img{
-    width: 310px;
-    height: 428px;
-    padding: 100px 30px 0px;
-}
-.flowers2 > img{
-    width: 464px;
-    height: 538px;
-    padding: 100px 30px 0px;
-
-} */
-/* .flowers2{
-    background-color: #D8EEEF;
-    border-radius: 300px 300px 0px 0px;
-     
-     
-}
-.flowers3{
-    background-color: #E4ECDC;
-    border-radius: 300px 300px 0px 0px;     
-} */
 /* icon section style */
 .icon-section{
     background: #F4F4F4;
