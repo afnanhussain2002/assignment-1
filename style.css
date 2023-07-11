@@ -64,8 +64,26 @@ section{
 
 }
 .flower{
-  width: 300px;
-  height: auto;
+    
+}
+
+.flowers1{
+    background-color: #F2DEE8;
+    border-radius: 300px 300px 0px 0px;
+     
+     
+}
+.flowers2{
+    background-color: #F2DEE8;
+    border-radius: 300px 300px 0px 0px;
+     
+     
+}
+.flowers3{
+    background-color: #F2DEE8;
+    border-radius: 300px 300px 0px 0px;
+     
+     
 }
 /* icon section style */
 .icon-section{
